@@ -1,7 +1,6 @@
 {
   "name": "mern-projects",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "server": "nodemon Backend/server.js"
@@ -21,5 +20,14 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay02124/MERN-PROJECTS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jay02124/MERN-PROJECTS/issues"
+  },
+  "homepage": "https://github.com/jay02124/MERN-PROJECTS#readme",
+  "description": ""
 }
